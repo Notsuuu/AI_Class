@@ -1,5 +1,5 @@
 README AI_Class
 
-Nama : Muhammad Ali Mubaraq
-NIM : F55123082
-Kelas : Teknik Informatika C
+<p>Nama : Muhammad Ali Mubaraq</p>
+<p>NIM : F55123082</p>
+<p>Kelas : Teknik Informatika C</p>
